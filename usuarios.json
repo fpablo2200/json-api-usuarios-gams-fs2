@@ -2,7 +2,7 @@
   {
     "nombre": "Carlos",
     "apellido": "Pérez",
-    "telefono": "+56912345678",
+    "telefono": "56912345678",
     "rut": "12.345.678-9",
     "email": "admin@example.com",
     "fechaNacimiento": "1990-05-21",
@@ -13,7 +13,7 @@
   {
     "nombre": "María",
     "apellido": "González",
-    "telefono": "+56987654321",
+    "telefono": "56987654321",
     "rut": "13.456.789-0",
     "email": "maria.gonzalez@example.com",
     "fechaNacimiento": "1988-10-12",
@@ -24,7 +24,7 @@
   {
     "nombre": "Javier",
     "apellido": "Ramírez",
-    "telefono": "+56923456789",
+    "telefono": "56923456789",
     "rut": "15.678.901-2",
     "email": "javier.ramirez@example.com",
     "fechaNacimiento": "1995-03-30",
@@ -35,7 +35,7 @@
   {
     "nombre": "Camila",
     "apellido": "Fernández",
-    "telefono": "+56934567890",
+    "telefono": "56934567890",
     "rut": "16.789.012-3",
     "email": "camila.fernandez@example.com",
     "fechaNacimiento": "1992-07-15",
@@ -46,7 +46,7 @@
   {
     "nombre": "Felipe",
     "apellido": "Soto",
-    "telefono": "+56945678901",
+    "telefono": "56945678901",
     "rut": "17.890.123-4",
     "email": "felipe.soto@example.com",
     "fechaNacimiento": "1991-11-08",
@@ -57,7 +57,7 @@
   {
     "nombre": "Paula",
     "apellido": "Martínez",
-    "telefono": "+56956789012",
+    "telefono": "56956789012",
     "rut": "18.901.234-5",
     "email": "paula.martinez@example.com",
     "fechaNacimiento": "1989-01-25",
@@ -68,7 +68,7 @@
   {
     "nombre": "Ricardo",
     "apellido": "López",
-    "telefono": "+56967890123",
+    "telefono": "56967890123",
     "rut": "19.012.345-6",
     "email": "ricardo.lopez@example.com",
     "fechaNacimiento": "1987-08-17",
@@ -79,7 +79,7 @@
   {
     "nombre": "Andrea",
     "apellido": "Rojas",
-    "telefono": "+56978901234",
+    "telefono": "56978901234",
     "rut": "20.123.456-7",
     "email": "andrea.rojas@example.com",
     "fechaNacimiento": "1993-09-03",
@@ -90,7 +90,7 @@
   {
     "nombre": "Tomás",
     "apellido": "Morales",
-    "telefono": "+56989012345",
+    "telefono": "56989012345",
     "rut": "21.234.567-8",
     "email": "tomas.morales@example.com",
     "fechaNacimiento": "1996-12-19",
@@ -101,7 +101,7 @@
   {
     "nombre": "Valentina",
     "apellido": "Castillo",
-    "telefono": "+56990123456",
+    "telefono": "56990123456",
     "rut": "22.345.678-9",
     "email": "valentina.castillo@example.com",
     "fechaNacimiento": "1994-04-07",
